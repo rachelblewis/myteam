@@ -1,0 +1,56 @@
+.navbar-light .navbar-brand {
+    color: white;
+    background-color: black;
+}
+
+
+.navbar-expand-lg {
+    color: white;
+    background-color: black;  
+}
+
+.jumbotron {
+background-image: url(Michigan_Wolverines_team_sideline_2016_22.jpg);
+background-attachment: fixed; 
+/* fixed keeps the image on the top of the page, can do scroll to have the top jumbotron move  */
+background-size: cover;
+}
+
+h1.display-4 {
+    /* give the h1 some "padding" */
+    padding: 90px;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+    font-weight: bold;
+    font-size: 52px;
+}
+
+body {
+    background-color: #00274c;
+}
+
+.yellow-heart {
+    color: yellow;
+}
+
+.blue-heart {
+    color: 00274c;
+}
+
+.table-headers{
+    color: white;
+    font-family: 'Rock Salt', cursive;
+    padding: 10px;
+}
+
+.table-striped{
+       color: white;
+}
+
+.container-fluid {
+    padding: 25px;
+}
+
+/* .logo { */
+    /* height: 120px; */
+/* } */
